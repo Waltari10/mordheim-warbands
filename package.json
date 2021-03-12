@@ -87,7 +87,7 @@
     "jest-watch-typeahead": "0.6.1",
     "notistack": "^1.0.3",
     "optimize-css-assets-webpack-plugin": "5.0.4",
-    "react-dev-utils": "10.1.0",
+    "react-dev-utils": "11.0.4",
     "redux-saga-test-plan": "^4.0.1",
     "terser-webpack-plugin": "2.3.4",
     "webpack": "4.41.5",
